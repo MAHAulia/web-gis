@@ -1,6 +1,6 @@
 console.log('loaded')
 
-const res = await fetch('/api/data.json')
+const res = await fetch('https://mahaulia.github.io/web-gis/api/data.json')
 if (res.status != 200) {
     alert('Gagal mengambil data')
 }
