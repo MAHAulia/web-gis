@@ -1,0 +1,3202 @@
+[
+  {
+    "type": "Feature",
+    "properties": { "name": "White Beard Coffee & Roastery" },
+    "geometry": { "coordinates": [107.6668033, -6.9435626], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Mengatta Coffee House 1.0" },
+    "geometry": { "coordinates": [107.6747098, -6.9278863], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Jadid Coffee Roastery" },
+    "geometry": { "coordinates": [107.6690793, -6.9174292], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Sakabumi Coffee" },
+    "geometry": { "coordinates": [107.676643, -6.9157032], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Point Coffee" },
+    "geometry": { "coordinates": [107.673077, -6.9196012], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Djaman Coffee" },
+    "geometry": { "coordinates": [107.6616141, -6.9172585], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Fate coffee" },
+    "geometry": { "coordinates": [107.6722766, -6.9309367], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Recoffeery Coffee Shop, Arcamanik" },
+    "geometry": { "coordinates": [107.6734366, -6.9342273], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Ohang Coffee shop" },
+    "geometry": { "coordinates": [107.6673514, -6.9421737], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Coffee Bandoeng" },
+    "geometry": { "coordinates": [107.6592259, -6.9378807], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Tedja Coffee Margahayu" },
+    "geometry": { "coordinates": [107.6662711, -6.9460898], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Linkco coffee kopi & food center" },
+    "geometry": { "coordinates": [107.6587177, -6.93842], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Mosa Coffee House" },
+    "geometry": { "coordinates": [107.6745152, -6.9167752], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "SunnySide Coffee" },
+    "geometry": { "coordinates": [107.6531276, -6.9154487], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "BLOKADE COFFEE" },
+    "geometry": { "coordinates": [107.6713157, -6.9334759], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "typical coffee" },
+    "geometry": { "coordinates": [107.6815193, -6.9372402], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Jalan Pulang Coffee Shop" },
+    "geometry": { "coordinates": [107.670945, -6.9167393], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Coffee Shop" },
+    "geometry": { "coordinates": [107.6581282, -6.9368473], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Coffee Shop Osmosis" },
+    "geometry": { "coordinates": [107.6718945, -6.9503825], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kamikamu Coffee" },
+    "geometry": { "coordinates": [107.6625115, -6.9196379], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kedai Kopi Parahyangan" },
+    "geometry": { "coordinates": [107.677916, -6.9383344], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Come in coffee" },
+    "geometry": { "coordinates": [107.6889968, -6.9456583], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Warung Kopi Asri" },
+    "geometry": { "coordinates": [107.6636777, -6.9382869], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Zigg! Coffee" },
+    "geometry": { "coordinates": [107.6692103, -6.9199647], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Sepekat Coffee" },
+    "geometry": { "coordinates": [107.6581578, -6.9364154], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kedaiyups (sejak 2018)" },
+    "geometry": { "coordinates": [107.6590589, -6.9391634], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Seven's Coffee" },
+    "geometry": { "coordinates": [107.6595371, -6.9405572], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "TWENTYNINE COFFEE & EATERY" },
+    "geometry": { "coordinates": [107.6846809, -6.9164628], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "PROJECT SPACE - COFFEE & COWORKING SPACE" },
+    "geometry": { "coordinates": [107.6664589, -6.9400362], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Flash Coffee" },
+    "geometry": { "coordinates": [107.6581705, -6.9410765], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Cafe Alfatih" },
+    "geometry": { "coordinates": [107.6747395, -6.9351386], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kopi Sabda Senja" },
+    "geometry": { "coordinates": [107.6637547, -6.928715], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kingdom Nuswantara Coffee" },
+    "geometry": { "coordinates": [107.6671126, -6.926079], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Bungsu Coffee" },
+    "geometry": { "coordinates": [107.6837909, -6.9462467], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "BLOKADE COFFEE" },
+    "geometry": { "coordinates": [107.6713157, -6.9334759], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Warkop Pak Meme" },
+    "geometry": { "coordinates": [107.6792344, -6.9341364], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "specialty coffee siliwangi rz organic west java"
+    },
+    "geometry": { "coordinates": [107.6654405, -6.9238398], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Toughness Coffee" },
+    "geometry": { "coordinates": [107.6730608, -6.9196657], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Venture Bottled Coffee" },
+    "geometry": { "coordinates": [107.6853106, -6.9484113], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Bayco Coffee" },
+    "geometry": { "coordinates": [107.6618114, -6.9500115], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "HMU Coffe" },
+    "geometry": { "coordinates": [107.6838521, -6.9384457], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Recoffeery Coffee Shop, Arcamanik" },
+    "geometry": { "coordinates": [107.6734366, -6.9342273], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "El Clasico Coffee" },
+    "geometry": { "coordinates": [107.678022, -6.9113484], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Angkringan Kang Ihih" },
+    "geometry": { "coordinates": [107.6764903, -6.9501576], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Coffee ON" },
+    "geometry": { "coordinates": [107.6396418, -6.958217], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kopi Ladju" },
+    "geometry": { "coordinates": [107.672545, -6.917724], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Boyfarhaan Coffee" },
+    "geometry": { "coordinates": [107.6814412, -6.9142784], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "CKC Coffee & Nongki" },
+    "geometry": { "coordinates": [107.6568658, -6.9329349], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Hank Coffee" },
+    "geometry": { "coordinates": [107.6823932, -6.952635], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Warkop Mas Ganteng" },
+    "geometry": { "coordinates": [107.7211488, -6.9430061], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Dewaji Coffee Lab" },
+    "geometry": { "coordinates": [107.6992103, -6.9148514], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Zyks Coffee" },
+    "geometry": { "coordinates": [107.6793278, -6.9321412], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "F & J" },
+    "geometry": { "coordinates": [107.6587717, -6.9395621], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "K & J Coffee and Barbershop" },
+    "geometry": { "coordinates": [107.659272, -6.939197], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Morgy coffee" },
+    "geometry": { "coordinates": [107.629602, -6.911779], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Mosa Coffee House" },
+    "geometry": { "coordinates": [107.6745152, -6.9167752], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "NG COFFEE AND SPACE ANTAPANI" },
+    "geometry": { "coordinates": [107.662232, -6.9275774], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Willy irwandi" },
+    "geometry": { "coordinates": [107.6724409, -6.9389108], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Manhattan Coffee" },
+    "geometry": { "coordinates": [107.6670582, -6.9405236], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Sekma Coffee" },
+    "geometry": { "coordinates": [107.6796956, -6.9163861], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Yoosel Coffee" },
+    "geometry": { "coordinates": [107.6585743, -6.9445149], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "AOC Coffee" },
+    "geometry": { "coordinates": [107.6593812, -6.942226], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kosuki Coffee" },
+    "geometry": { "coordinates": [107.6584606, -6.9454093], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Morning Glory Coffee Antapani Outlet" },
+    "geometry": { "coordinates": [107.6533591, -6.9126324], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kopi Berbagi" },
+    "geometry": { "coordinates": [107.6644353, -6.9433345], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Contrast Coffee" },
+    "geometry": { "coordinates": [107.6267201, -6.9154989], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "GRUTS Coffee" },
+    "geometry": { "coordinates": [107.6652643, -6.9457542], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kedai pojok coffe" },
+    "geometry": { "coordinates": [107.6889402, -6.9384633], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "The Kopi Tubruk - Saung Coffee" },
+    "geometry": { "coordinates": [107.688937, -6.926237], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Nurona Space" },
+    "geometry": { "coordinates": [107.6754788, -6.9175113], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Engineer Coffee" },
+    "geometry": { "coordinates": [107.681488, -6.9128304], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "typical coffee" },
+    "geometry": { "coordinates": [107.6815193, -6.9372402], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Mars kopi & Elanda Make Up" },
+    "geometry": { "coordinates": [107.6661215, -6.948166], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Warkop Naik Kelas Arcamanik Bandung" },
+    "geometry": { "coordinates": [107.6711262, -6.917303], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "PAWONCOFFE1234" },
+    "geometry": { "coordinates": [107.6762104, -6.9232707], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Twin Sharing Coffee" },
+    "geometry": { "coordinates": [107.6618341, -6.9171667], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kedai Mas Ben" },
+    "geometry": { "coordinates": [107.6614518, -6.9435726], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Katto Coffee" },
+    "geometry": { "coordinates": [107.6635915, -6.9456168], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Lock and Down Coffee" },
+    "geometry": { "coordinates": [107.6603124, -6.927554], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kedai Kopi Ngohvie" },
+    "geometry": { "coordinates": [107.6889683, -6.9434657], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Tovi.Inc" },
+    "geometry": { "coordinates": [107.680914, -6.9432368], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "8PM coffe & milk" },
+    "geometry": { "coordinates": [107.6408327, -6.9518174], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Butir Kopi" },
+    "geometry": { "coordinates": [107.6736156, -6.9195648], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Hi! Coffee" },
+    "geometry": { "coordinates": [107.6450279, -6.954673], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "ZAZAN DRINKS" },
+    "geometry": { "coordinates": [107.67281, -6.9279901], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kopi Terkedjoet" },
+    "geometry": { "coordinates": [107.6761193, -6.9391138], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kopi Haii express" },
+    "geometry": { "coordinates": [107.6589564, -6.9430244], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Palasari Coffee" },
+    "geometry": { "coordinates": [107.6759, -6.945254], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "OH Coffee Riung Bandung" },
+    "geometry": { "coordinates": [107.6803274, -6.9498797], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Aiwah Coffee Shop & Roastery" },
+    "geometry": { "coordinates": [107.6284041, -6.9409783], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Monday Coffee Kiara Artha Park" },
+    "geometry": { "coordinates": [107.6421484, -6.9168128], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Teduh Coffee" },
+    "geometry": { "coordinates": [107.6844699, -6.936602], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kirana Coffee shop" },
+    "geometry": { "coordinates": [107.6623819, -6.955837], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Filia Coffee" },
+    "geometry": { "coordinates": [107.6587636, -6.9439139], "type": "Point" }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "White Beard Coffee & Roastery" },
+    "geometry": {
+      "coordinates": [
+          [107.6668033, -6.9435626],
+          [107.66680043073866, -6.9437733798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Mengatta Coffee House 1.0" },
+    "geometry": {
+      "coordinates": [
+          [107.6747098, -6.9278863],
+          [107.67470693073867, -6.9280970798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Jadid Coffee Roastery" },
+    "geometry": {
+      "coordinates": [
+          [107.6690793, -6.9174292],
+          [107.66907643073867, -6.9176399798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Sakabumi Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.676643, -6.9157032],
+          [107.67664013073866, -6.9159139798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Point Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.673077, -6.9196012],
+          [107.67307413073867, -6.9198119798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Djaman Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6616141, -6.9172585],
+          [107.66161123073866, -6.9174692798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Fate coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6722766, -6.9309367],
+          [107.67227373073867, -6.9311474798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Recoffeery Coffee Shop, Arcamanik" },
+    "geometry": {
+      "coordinates": [
+          [107.6734366, -6.9342273],
+          [107.67343373073867, -6.9344380798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Ohang Coffee shop" },
+    "geometry": {
+      "coordinates": [
+          [107.6673514, -6.9421737],
+          [107.66734853073866, -6.9423844798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Coffee Bandoeng" },
+    "geometry": {
+      "coordinates": [
+          [107.6592259, -6.9378807],
+          [107.65922303073866, -6.9380914798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Tedja Coffee Margahayu" },
+    "geometry": {
+      "coordinates": [
+          [107.6662711, -6.9460898],
+          [107.66626823073867, -6.9463005798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Linkco coffee kopi & food center" },
+    "geometry": {
+      "coordinates": [
+          [107.6587177, -6.93842],
+          [107.65871483073866, -6.9386307798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Mosa Coffee House" },
+    "geometry": {
+      "coordinates": [
+          [107.6745152, -6.9167752],
+          [107.67451233073866, -6.9169859798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "SunnySide Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6531276, -6.9154487],
+          [107.65312473073867, -6.9156594798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "BLOKADE COFFEE" },
+    "geometry": {
+      "coordinates": [
+          [107.6713157, -6.9334759],
+          [107.67131283073866, -6.9336866798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "typical coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6815193, -6.9372402],
+          [107.68151643073867, -6.9374509798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Jalan Pulang Coffee Shop" },
+    "geometry": {
+      "coordinates": [
+          [107.670945, -6.9167393],
+          [107.67094213073867, -6.9169500798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Coffee Shop" },
+    "geometry": {
+      "coordinates": [
+          [107.6581282, -6.9368473],
+          [107.65812533073866, -6.9370580798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Coffee Shop Osmosis" },
+    "geometry": {
+      "coordinates": [
+          [107.6718945, -6.9503825],
+          [107.67189163073866, -6.9505932798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kamikamu Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6625115, -6.9196379],
+          [107.66250863073866, -6.9198486798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kedai Kopi Parahyangan" },
+    "geometry": {
+      "coordinates": [
+          [107.677916, -6.9383344],
+          [107.67791313073866, -6.9385451798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Come in coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6889968, -6.9456583],
+          [107.68899393073866, -6.9458690798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Warung Kopi Asri" },
+    "geometry": {
+      "coordinates": [
+          [107.6636777, -6.9382869],
+          [107.66367483073866, -6.9384976798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Zigg! Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6692103, -6.9199647],
+          [107.66920743073867, -6.9201754798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Sepekat Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6581578, -6.9364154],
+          [107.65815493073866, -6.9366261798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kedaiyups (sejak 2018)" },
+    "geometry": {
+      "coordinates": [
+          [107.6590589, -6.9391634],
+          [107.65905603073867, -6.9393741798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Seven's Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6595371, -6.9405572],
+          [107.65953423073866, -6.9407679798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "TWENTYNINE COFFEE & EATERY" },
+    "geometry": {
+      "coordinates": [
+          [107.6846809, -6.9164628],
+          [107.68467803073867, -6.9166735798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "PROJECT SPACE - COFFEE & COWORKING SPACE" },
+    "geometry": {
+      "coordinates": [
+          [107.6664589, -6.9400362],
+          [107.66645603073866, -6.9402469798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Flash Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6581705, -6.9410765],
+          [107.65816763073866, -6.9412872798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Cafe Alfatih" },
+    "geometry": {
+      "coordinates": [
+          [107.6747395, -6.9351386],
+          [107.67473663073866, -6.9353493798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kopi Sabda Senja" },
+    "geometry": {
+      "coordinates": [
+          [107.6637547, -6.928715],
+          [107.66375183073866, -6.9289257798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kingdom Nuswantara Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6671126, -6.926079],
+          [107.66710973073866, -6.9262897798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Bungsu Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6837909, -6.9462467],
+          [107.68378803073867, -6.9464574798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "BLOKADE COFFEE" },
+    "geometry": {
+      "coordinates": [
+          [107.6713157, -6.9334759],
+          [107.67131283073866, -6.9336866798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Warkop Pak Meme" },
+    "geometry": {
+      "coordinates": [
+          [107.6792344, -6.9341364],
+          [107.67923153073866, -6.9343471798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "specialty coffee siliwangi rz organic west java"
+    },
+    "geometry": {
+      "coordinates": [
+          [107.6654405, -6.9238398],
+          [107.66543763073867, -6.9240505798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Toughness Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6730608, -6.9196657],
+          [107.67305793073866, -6.9198764798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Venture Bottled Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6853106, -6.9484113],
+          [107.68530773073866, -6.9486220798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Bayco Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6618114, -6.9500115],
+          [107.66180853073867, -6.9502222798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "HMU Coffe" },
+    "geometry": {
+      "coordinates": [
+          [107.6838521, -6.9384457],
+          [107.68384923073866, -6.9386564798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Recoffeery Coffee Shop, Arcamanik" },
+    "geometry": {
+      "coordinates": [
+          [107.6734366, -6.9342273],
+          [107.67343373073867, -6.9344380798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "El Clasico Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.678022, -6.9113484],
+          [107.67801913073866, -6.9115591798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Angkringan Kang Ihih" },
+    "geometry": {
+      "coordinates": [
+          [107.6764903, -6.9501576],
+          [107.67648743073866, -6.9503683798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Coffee ON" },
+    "geometry": {
+      "coordinates": [
+          [107.6396418, -6.958217],
+          [107.63963893073867, -6.9584277798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kopi Ladju" },
+    "geometry": {
+      "coordinates": [
+          [107.672545, -6.917724],
+          [107.67254213073866, -6.9179347798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Boyfarhaan Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6814412, -6.9142784],
+          [107.68143833073866, -6.9144891798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "CKC Coffee & Nongki" },
+    "geometry": {
+      "coordinates": [
+          [107.6568658, -6.9329349],
+          [107.65686293073867, -6.9331456798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Hank Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6823932, -6.952635],
+          [107.68239033073867, -6.9528457798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Warkop Mas Ganteng" },
+    "geometry": {
+      "coordinates": [
+          [107.7211488, -6.9430061],
+          [107.72114593073866, -6.9432168798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Dewaji Coffee Lab" },
+    "geometry": {
+      "coordinates": [
+          [107.6992103, -6.9148514],
+          [107.69920743073867, -6.9150621798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Zyks Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6793278, -6.9321412],
+          [107.67932493073866, -6.9323519798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "F & J" },
+    "geometry": {
+      "coordinates": [
+          [107.6587717, -6.9395621],
+          [107.65876883073867, -6.9397728798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "K & J Coffee and Barbershop" },
+    "geometry": {
+      "coordinates": [
+          [107.659272, -6.939197],
+          [107.65926913073866, -6.9394077798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Morgy coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.629602, -6.911779],
+          [107.62959913073867, -6.9119897798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Mosa Coffee House" },
+    "geometry": {
+      "coordinates": [
+          [107.6745152, -6.9167752],
+          [107.67451233073866, -6.9169859798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "NG COFFEE AND SPACE ANTAPANI" },
+    "geometry": {
+      "coordinates": [
+          [107.662232, -6.9275774],
+          [107.66222913073867, -6.9277881798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Willy irwandi" },
+    "geometry": {
+      "coordinates": [
+          [107.6724409, -6.9389108],
+          [107.67243803073866, -6.9391215798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Manhattan Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6670582, -6.9405236],
+          [107.66705533073866, -6.9407343798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Sekma Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6796956, -6.9163861],
+          [107.67969273073867, -6.9165968798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Yoosel Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6585743, -6.9445149],
+          [107.65857143073866, -6.9447256798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "AOC Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6593812, -6.942226],
+          [107.65937833073866, -6.9424367798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kosuki Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6584606, -6.9454093],
+          [107.65845773073866, -6.9456200798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Morning Glory Coffee Antapani Outlet" },
+    "geometry": {
+      "coordinates": [
+          [107.6533591, -6.9126324],
+          [107.65335623073867, -6.9128431798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kopi Berbagi" },
+    "geometry": {
+      "coordinates": [
+          [107.6644353, -6.9433345],
+          [107.66443243073866, -6.9435452798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Contrast Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6267201, -6.9154989],
+          [107.62671723073866, -6.9157096798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "GRUTS Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6652643, -6.9457542],
+          [107.66526143073867, -6.9459649798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kedai pojok coffe" },
+    "geometry": {
+      "coordinates": [
+          [107.6889402, -6.9384633],
+          [107.68893733073867, -6.9386740798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "The Kopi Tubruk - Saung Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.688937, -6.926237],
+          [107.68893413073866, -6.9264477798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Nurona Space" },
+    "geometry": {
+      "coordinates": [
+          [107.6754788, -6.9175113],
+          [107.67547593073866, -6.9177220798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Engineer Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.681488, -6.9128304],
+          [107.68148513073866, -6.9130411798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "typical coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6815193, -6.9372402],
+          [107.68151643073867, -6.9374509798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Mars kopi & Elanda Make Up" },
+    "geometry": {
+      "coordinates": [
+          [107.6661215, -6.948166],
+          [107.66611863073867, -6.9483767798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Warkop Naik Kelas Arcamanik Bandung" },
+    "geometry": {
+      "coordinates": [
+          [107.6711262, -6.917303],
+          [107.67112333073867, -6.9175137798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "PAWONCOFFE1234" },
+    "geometry": {
+      "coordinates": [
+          [107.6762104, -6.9232707],
+          [107.67620753073867, -6.9234814798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Twin Sharing Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6618341, -6.9171667],
+          [107.66183123073866, -6.9173774798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kedai Mas Ben" },
+    "geometry": {
+      "coordinates": [
+          [107.6614518, -6.9435726],
+          [107.66144893073866, -6.9437833798852004]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Katto Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6635915, -6.9456168],
+          [107.66358863073866, -6.9458275798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Lock and Down Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6603124, -6.927554],
+          [107.66030953073866, -6.9277647798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kedai Kopi Ngohvie" },
+    "geometry": {
+      "coordinates": [
+          [107.6889683, -6.9434657],
+          [107.68896543073866, -6.9436764798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Tovi.Inc" },
+    "geometry": {
+      "coordinates": [
+          [107.680914, -6.9432368],
+          [107.68091113073866, -6.9434475798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "8PM coffe & milk" },
+    "geometry": {
+      "coordinates": [
+          [107.6408327, -6.9518174],
+          [107.64082983073867, -6.9520281798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Butir Kopi" },
+    "geometry": {
+      "coordinates": [
+          [107.6736156, -6.9195648],
+          [107.67361273073867, -6.9197755798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Hi! Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6450279, -6.954673],
+          [107.64502503073867, -6.9548837798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "ZAZAN DRINKS" },
+    "geometry": {
+      "coordinates": [
+          [107.67281, -6.9279901],
+          [107.67280713073866, -6.9282008798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kopi Terkedjoet" },
+    "geometry": {
+      "coordinates": [
+          [107.6761193, -6.9391138],
+          [107.67611643073866, -6.9393245798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kopi Haii express" },
+    "geometry": {
+      "coordinates": [
+          [107.6589564, -6.9430244],
+          [107.65895353073866, -6.9432351798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Palasari Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6759, -6.945254],
+          [107.67589713073866, -6.9454647798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "OH Coffee Riung Bandung" },
+    "geometry": {
+      "coordinates": [
+          [107.6803274, -6.9498797],
+          [107.68032453073866, -6.9500904798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Aiwah Coffee Shop & Roastery" },
+    "geometry": {
+      "coordinates": [
+          [107.6284041, -6.9409783],
+          [107.62840123073866, -6.9411890798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Monday Coffee Kiara Artha Park" },
+    "geometry": {
+      "coordinates": [
+          [107.6421484, -6.9168128],
+          [107.64214553073866, -6.9170235798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Teduh Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6844699, -6.936602],
+          [107.68446703073866, -6.9368127798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Kirana Coffee shop" },
+    "geometry": {
+      "coordinates": [
+          [107.6623819, -6.955837],
+          [107.66237903073866, -6.9560477798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "name": "Filia Coffee" },
+    "geometry": {
+      "coordinates": [
+          [107.6587636, -6.9439139],
+          [107.65876073073866, -6.9441246798852]
+      ],
+      "type": "LineString"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "White Beard Coffee & Roastery"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6668033, -6.9435626],
+          [107.6668033, -6.9436837535882],
+          [107.666884035438, -6.9436837535882],
+          [107.666884035438, -6.9435626],
+          [107.6668033, -6.9435626]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Mengatta Coffee House 1.0"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6747098, -6.9278863],
+          [107.6747098, -6.9280074535882],
+          [107.674790535438, -6.9280074535882],
+          [107.674790535438, -6.9278863],
+          [107.6747098, -6.9278863]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Jadid Coffee Roastery"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6690793, -6.9174292],
+          [107.6690793, -6.9175503535882],
+          [107.66916003543801, -6.9175503535882],
+          [107.66916003543801, -6.9174292],
+          [107.6690793, -6.9174292]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Sakabumi Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.676643, -6.9157032],
+          [107.676643, -6.9158243535882],
+          [107.676723735438, -6.9158243535882],
+          [107.676723735438, -6.9157032],
+          [107.676643, -6.9157032]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Point Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.673077, -6.9196012],
+          [107.673077, -6.9197223535882],
+          [107.67315773543801, -6.9197223535882],
+          [107.67315773543801, -6.9196012],
+          [107.673077, -6.9196012]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Djaman Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6616141, -6.9172585],
+          [107.6616141, -6.9173796535882],
+          [107.661694835438, -6.9173796535882],
+          [107.661694835438, -6.9172585],
+          [107.6616141, -6.9172585]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Fate coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6722766, -6.9309367],
+          [107.6722766, -6.9310578535882],
+          [107.67235733543801, -6.9310578535882],
+          [107.67235733543801, -6.9309367],
+          [107.6722766, -6.9309367]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Recoffeery Coffee Shop, Arcamanik"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6734366, -6.9342273],
+          [107.6734366, -6.9343484535882],
+          [107.673517335438, -6.9343484535882],
+          [107.673517335438, -6.9342273],
+          [107.6734366, -6.9342273]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Ohang Coffee shop"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6673514, -6.9421737],
+          [107.6673514, -6.9422948535882],
+          [107.667432135438, -6.9422948535882],
+          [107.667432135438, -6.9421737],
+          [107.6673514, -6.9421737]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Coffee Bandoeng"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6592259, -6.9378807],
+          [107.6592259, -6.9380018535882],
+          [107.659306635438, -6.9380018535882],
+          [107.659306635438, -6.9378807],
+          [107.6592259, -6.9378807]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Tedja Coffee Margahayu"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6662711, -6.9460898],
+          [107.6662711, -6.9462109535882],
+          [107.66635183543801, -6.9462109535882],
+          [107.66635183543801, -6.9460898],
+          [107.6662711, -6.9460898]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Linkco coffee kopi & food center"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6587177, -6.93842],
+          [107.6587177, -6.9385411535882],
+          [107.658798435438, -6.9385411535882],
+          [107.658798435438, -6.93842],
+          [107.6587177, -6.93842]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Mosa Coffee House"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6745152, -6.9167752],
+          [107.6745152, -6.9168963535882],
+          [107.674595935438, -6.9168963535882],
+          [107.674595935438, -6.9167752],
+          [107.6745152, -6.9167752]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "SunnySide Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6531276, -6.9154487],
+          [107.6531276, -6.9155698535882],
+          [107.65320833543801, -6.9155698535882],
+          [107.65320833543801, -6.9154487],
+          [107.6531276, -6.9154487]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "BLOKADE COFFEE"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6713157, -6.9334759],
+          [107.6713157, -6.9335970535882],
+          [107.671396435438, -6.9335970535882],
+          [107.671396435438, -6.9334759],
+          [107.6713157, -6.9334759]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "typical coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6815193, -6.9372402],
+          [107.6815193, -6.9373613535882],
+          [107.68160003543801, -6.9373613535882],
+          [107.68160003543801, -6.9372402],
+          [107.6815193, -6.9372402]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Jalan Pulang Coffee Shop"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.670945, -6.9167393],
+          [107.670945, -6.9168604535882],
+          [107.67102573543801, -6.9168604535882],
+          [107.67102573543801, -6.9167393],
+          [107.670945, -6.9167393]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Coffee Shop"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6581282, -6.9368473],
+          [107.6581282, -6.9369684535882],
+          [107.658208935438, -6.9369684535882],
+          [107.658208935438, -6.9368473],
+          [107.6581282, -6.9368473]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Coffee Shop Osmosis"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6718945, -6.9503825],
+          [107.6718945, -6.9505036535882],
+          [107.671975235438, -6.9505036535882],
+          [107.671975235438, -6.9503825],
+          [107.6718945, -6.9503825]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Kamikamu Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6625115, -6.9196379],
+          [107.6625115, -6.9197590535882],
+          [107.662592235438, -6.9197590535882],
+          [107.662592235438, -6.9196379],
+          [107.6625115, -6.9196379]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Kedai Kopi Parahyangan"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.677916, -6.9383344],
+          [107.677916, -6.9384555535881995],
+          [107.677996735438, -6.9384555535881995],
+          [107.677996735438, -6.9383344],
+          [107.677916, -6.9383344]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Come in coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6889968, -6.9456583],
+          [107.6889968, -6.9457794535882],
+          [107.689077535438, -6.9457794535882],
+          [107.689077535438, -6.9456583],
+          [107.6889968, -6.9456583]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Warung Kopi Asri"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6636777, -6.9382869],
+          [107.6636777, -6.9384080535882],
+          [107.663758435438, -6.9384080535882],
+          [107.663758435438, -6.9382869],
+          [107.6636777, -6.9382869]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Zigg! Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6692103, -6.9199647],
+          [107.6692103, -6.9200858535882],
+          [107.66929103543801, -6.9200858535882],
+          [107.66929103543801, -6.9199647],
+          [107.6692103, -6.9199647]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Sepekat Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6581578, -6.9364154],
+          [107.6581578, -6.9365365535881995],
+          [107.658238535438, -6.9365365535881995],
+          [107.658238535438, -6.9364154],
+          [107.6581578, -6.9364154]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Kedaiyups (sejak 2018)"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6590589, -6.9391634],
+          [107.6590589, -6.9392845535882],
+          [107.65913963543801, -6.9392845535882],
+          [107.65913963543801, -6.9391634],
+          [107.6590589, -6.9391634]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Seven's Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6595371, -6.9405572],
+          [107.6595371, -6.9406783535882],
+          [107.659617835438, -6.9406783535882],
+          [107.659617835438, -6.9405572],
+          [107.6595371, -6.9405572]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "TWENTYNINE COFFEE & EATERY"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6846809, -6.9164628],
+          [107.6846809, -6.9165839535882],
+          [107.68476163543801, -6.9165839535882],
+          [107.68476163543801, -6.9164628],
+          [107.6846809, -6.9164628]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "PROJECT SPACE - COFFEE & COWORKING SPACE"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6664589, -6.9400362],
+          [107.6664589, -6.9401573535882],
+          [107.666539635438, -6.9401573535882],
+          [107.666539635438, -6.9400362],
+          [107.6664589, -6.9400362]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Flash Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6581705, -6.9410765],
+          [107.6581705, -6.9411976535882],
+          [107.658251235438, -6.9411976535882],
+          [107.658251235438, -6.9410765],
+          [107.6581705, -6.9410765]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Cafe Alfatih"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6747395, -6.9351386],
+          [107.6747395, -6.9352597535882],
+          [107.674820235438, -6.9352597535882],
+          [107.674820235438, -6.9351386],
+          [107.6747395, -6.9351386]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Kopi Sabda Senja"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6637547, -6.928715],
+          [107.6637547, -6.9288361535882],
+          [107.663835435438, -6.9288361535882],
+          [107.663835435438, -6.928715],
+          [107.6637547, -6.928715]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Kingdom Nuswantara Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6671126, -6.926079],
+          [107.6671126, -6.9262001535882],
+          [107.667193335438, -6.9262001535882],
+          [107.667193335438, -6.926079],
+          [107.6671126, -6.926079]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Bungsu Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6837909, -6.9462467],
+          [107.6837909, -6.9463678535882],
+          [107.68387163543801, -6.9463678535882],
+          [107.68387163543801, -6.9462467],
+          [107.6837909, -6.9462467]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "BLOKADE COFFEE"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6713157, -6.9334759],
+          [107.6713157, -6.9335970535882],
+          [107.671396435438, -6.9335970535882],
+          [107.671396435438, -6.9334759],
+          [107.6713157, -6.9334759]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Warkop Pak Meme"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6792344, -6.9341364],
+          [107.6792344, -6.9342575535882],
+          [107.679315135438, -6.9342575535882],
+          [107.679315135438, -6.9341364],
+          [107.6792344, -6.9341364]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "specialty coffee siliwangi rz organic west java"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6654405, -6.9238398],
+          [107.6654405, -6.9239609535882],
+          [107.665521235438, -6.9239609535882],
+          [107.665521235438, -6.9238398],
+          [107.6654405, -6.9238398]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Toughness Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6730608, -6.9196657],
+          [107.6730608, -6.9197868535882],
+          [107.673141535438, -6.9197868535882],
+          [107.673141535438, -6.9196657],
+          [107.6730608, -6.9196657]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Venture Bottled Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6853106, -6.9484113],
+          [107.6853106, -6.9485324535882],
+          [107.685391335438, -6.9485324535882],
+          [107.685391335438, -6.9484113],
+          [107.6853106, -6.9484113]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Bayco Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6618114, -6.9500115],
+          [107.6618114, -6.9501326535881995],
+          [107.66189213543801, -6.9501326535881995],
+          [107.66189213543801, -6.9500115],
+          [107.6618114, -6.9500115]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "HMU Coffe"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6838521, -6.9384457],
+          [107.6838521, -6.9385668535882],
+          [107.683932835438, -6.9385668535882],
+          [107.683932835438, -6.9384457],
+          [107.6838521, -6.9384457]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Recoffeery Coffee Shop, Arcamanik"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6734366, -6.9342273],
+          [107.6734366, -6.9343484535882],
+          [107.673517335438, -6.9343484535882],
+          [107.673517335438, -6.9342273],
+          [107.6734366, -6.9342273]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "El Clasico Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.678022, -6.9113484],
+          [107.678022, -6.9114695535882],
+          [107.678102735438, -6.9114695535882],
+          [107.678102735438, -6.9113484],
+          [107.678022, -6.9113484]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Angkringan Kang Ihih"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6764903, -6.9501576],
+          [107.6764903, -6.9502787535882],
+          [107.676571035438, -6.9502787535882],
+          [107.676571035438, -6.9501576],
+          [107.6764903, -6.9501576]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Coffee ON"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6396418, -6.958217],
+          [107.6396418, -6.9583381535882],
+          [107.63972253543801, -6.9583381535882],
+          [107.63972253543801, -6.958217],
+          [107.6396418, -6.958217]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Kopi Ladju"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.672545, -6.917724],
+          [107.672545, -6.9178451535882],
+          [107.672625735438, -6.9178451535882],
+          [107.672625735438, -6.917724],
+          [107.672545, -6.917724]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Boyfarhaan Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6814412, -6.9142784],
+          [107.6814412, -6.9143995535882],
+          [107.681521935438, -6.9143995535882],
+          [107.681521935438, -6.9142784],
+          [107.6814412, -6.9142784]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "CKC Coffee & Nongki"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6568658, -6.9329349],
+          [107.6568658, -6.9330560535882],
+          [107.65694653543801, -6.9330560535882],
+          [107.65694653543801, -6.9329349],
+          [107.6568658, -6.9329349]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Hank Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6823932, -6.952635],
+          [107.6823932, -6.9527561535882],
+          [107.68247393543801, -6.9527561535882],
+          [107.68247393543801, -6.952635],
+          [107.6823932, -6.952635]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Warkop Mas Ganteng"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.7211488, -6.9430061],
+          [107.7211488, -6.9431272535882],
+          [107.721229535438, -6.9431272535882],
+          [107.721229535438, -6.9430061],
+          [107.7211488, -6.9430061]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Dewaji Coffee Lab"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6992103, -6.9148514],
+          [107.6992103, -6.9149725535882],
+          [107.69929103543801, -6.9149725535882],
+          [107.69929103543801, -6.9148514],
+          [107.6992103, -6.9148514]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Zyks Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6793278, -6.9321412],
+          [107.6793278, -6.9322623535882],
+          [107.679408535438, -6.9322623535882],
+          [107.679408535438, -6.9321412],
+          [107.6793278, -6.9321412]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "F & J"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6587717, -6.9395621],
+          [107.6587717, -6.9396832535882],
+          [107.658852435438, -6.9396832535882],
+          [107.658852435438, -6.9395621],
+          [107.6587717, -6.9395621]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "K & J Coffee and Barbershop"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.659272, -6.939197],
+          [107.659272, -6.9393181535882],
+          [107.659352735438, -6.9393181535882],
+          [107.659352735438, -6.939197],
+          [107.659272, -6.939197]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Morgy coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.629602, -6.911779],
+          [107.629602, -6.9119001535882],
+          [107.62968273543801, -6.9119001535882],
+          [107.62968273543801, -6.911779],
+          [107.629602, -6.911779]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Mosa Coffee House"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6745152, -6.9167752],
+          [107.6745152, -6.9168963535882],
+          [107.674595935438, -6.9168963535882],
+          [107.674595935438, -6.9167752],
+          [107.6745152, -6.9167752]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "NG COFFEE AND SPACE ANTAPANI"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.662232, -6.9275774],
+          [107.662232, -6.9276985535882],
+          [107.66231273543801, -6.9276985535882],
+          [107.66231273543801, -6.9275774],
+          [107.662232, -6.9275774]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Willy irwandi"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6724409, -6.9389108],
+          [107.6724409, -6.9390319535882],
+          [107.672521635438, -6.9390319535882],
+          [107.672521635438, -6.9389108],
+          [107.6724409, -6.9389108]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Manhattan Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6670582, -6.9405236],
+          [107.6670582, -6.9406447535882],
+          [107.667138935438, -6.9406447535882],
+          [107.667138935438, -6.9405236],
+          [107.6670582, -6.9405236]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Sekma Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6796956, -6.9163861],
+          [107.6796956, -6.9165072535882],
+          [107.679776335438, -6.9165072535882],
+          [107.679776335438, -6.9163861],
+          [107.6796956, -6.9163861]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Yoosel Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6585743, -6.9445149],
+          [107.6585743, -6.9446360535882],
+          [107.658655035438, -6.9446360535882],
+          [107.658655035438, -6.9445149],
+          [107.6585743, -6.9445149]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "AOC Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6593812, -6.942226],
+          [107.6593812, -6.9423471535882],
+          [107.659461935438, -6.9423471535882],
+          [107.659461935438, -6.942226],
+          [107.6593812, -6.942226]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Kosuki Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6584606, -6.9454093],
+          [107.6584606, -6.9455304535882],
+          [107.658541335438, -6.9455304535882],
+          [107.658541335438, -6.9454093],
+          [107.6584606, -6.9454093]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Morning Glory Coffee Antapani Outlet"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6533591, -6.9126324],
+          [107.6533591, -6.9127535535882],
+          [107.65343983543801, -6.9127535535882],
+          [107.65343983543801, -6.9126324],
+          [107.6533591, -6.9126324]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Kopi Berbagi"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6644353, -6.9433345],
+          [107.6644353, -6.9434556535882],
+          [107.664516035438, -6.9434556535882],
+          [107.664516035438, -6.9433345],
+          [107.6644353, -6.9433345]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Contrast Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6267201, -6.9154989],
+          [107.6267201, -6.9156200535882],
+          [107.626800835438, -6.9156200535882],
+          [107.626800835438, -6.9154989],
+          [107.6267201, -6.9154989]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "GRUTS Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6652643, -6.9457542],
+          [107.6652643, -6.9458753535882],
+          [107.66534503543801, -6.9458753535882],
+          [107.66534503543801, -6.9457542],
+          [107.6652643, -6.9457542]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Kedai pojok coffe"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6889402, -6.9384633],
+          [107.6889402, -6.9385844535881995],
+          [107.68902093543801, -6.9385844535881995],
+          [107.68902093543801, -6.9384633],
+          [107.6889402, -6.9384633]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "The Kopi Tubruk - Saung Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.688937, -6.926237],
+          [107.688937, -6.9263581535882],
+          [107.689017735438, -6.9263581535882],
+          [107.689017735438, -6.926237],
+          [107.688937, -6.926237]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Nurona Space"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6754788, -6.9175113],
+          [107.6754788, -6.9176324535882],
+          [107.675559535438, -6.9176324535882],
+          [107.675559535438, -6.9175113],
+          [107.6754788, -6.9175113]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Engineer Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.681488, -6.9128304],
+          [107.681488, -6.9129515535882],
+          [107.681568735438, -6.9129515535882],
+          [107.681568735438, -6.9128304],
+          [107.681488, -6.9128304]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "typical coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6815193, -6.9372402],
+          [107.6815193, -6.9373613535882],
+          [107.68160003543801, -6.9373613535882],
+          [107.68160003543801, -6.9372402],
+          [107.6815193, -6.9372402]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Mars kopi & Elanda Make Up"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6661215, -6.948166],
+          [107.6661215, -6.9482871535882],
+          [107.666202235438, -6.9482871535882],
+          [107.666202235438, -6.948166],
+          [107.6661215, -6.948166]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Warkop Naik Kelas Arcamanik Bandung"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6711262, -6.917303],
+          [107.6711262, -6.9174241535882],
+          [107.67120693543801, -6.9174241535882],
+          [107.67120693543801, -6.917303],
+          [107.6711262, -6.917303]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "PAWONCOFFE1234"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6762104, -6.9232707],
+          [107.6762104, -6.9233918535882],
+          [107.676291135438, -6.9233918535882],
+          [107.676291135438, -6.9232707],
+          [107.6762104, -6.9232707]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Twin Sharing Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6618341, -6.9171667],
+          [107.6618341, -6.9172878535882],
+          [107.661914835438, -6.9172878535882],
+          [107.661914835438, -6.9171667],
+          [107.6618341, -6.9171667]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Kedai Mas Ben"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6614518, -6.9435726],
+          [107.6614518, -6.9436937535882],
+          [107.661532535438, -6.9436937535882],
+          [107.661532535438, -6.9435726],
+          [107.6614518, -6.9435726]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Katto Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6635915, -6.9456168],
+          [107.6635915, -6.9457379535882],
+          [107.663672235438, -6.9457379535882],
+          [107.663672235438, -6.9456168],
+          [107.6635915, -6.9456168]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Lock and Down Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6603124, -6.927554],
+          [107.6603124, -6.9276751535882],
+          [107.660393135438, -6.9276751535882],
+          [107.660393135438, -6.927554],
+          [107.6603124, -6.927554]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Kedai Kopi Ngohvie"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6889683, -6.9434657],
+          [107.6889683, -6.9435868535882],
+          [107.689049035438, -6.9435868535882],
+          [107.689049035438, -6.9434657],
+          [107.6889683, -6.9434657]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Tovi.Inc"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.680914, -6.9432368],
+          [107.680914, -6.9433579535882],
+          [107.680994735438, -6.9433579535882],
+          [107.680994735438, -6.9432368],
+          [107.680914, -6.9432368]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "8PM coffe & milk"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6408327, -6.9518174],
+          [107.6408327, -6.9519385535882],
+          [107.64091343543801, -6.9519385535882],
+          [107.64091343543801, -6.9518174],
+          [107.6408327, -6.9518174]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Butir Kopi"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6736156, -6.9195648],
+          [107.6736156, -6.9196859535882],
+          [107.67369633543801, -6.9196859535882],
+          [107.67369633543801, -6.9195648],
+          [107.6736156, -6.9195648]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Hi! Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6450279, -6.954673],
+          [107.6450279, -6.9547941535882],
+          [107.645108635438, -6.9547941535882],
+          [107.645108635438, -6.954673],
+          [107.6450279, -6.954673]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "ZAZAN DRINKS"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.67281, -6.9279901],
+          [107.67281, -6.9281112535882],
+          [107.672890735438, -6.9281112535882],
+          [107.672890735438, -6.9279901],
+          [107.67281, -6.9279901]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Kopi Terkedjoet"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6761193, -6.9391138],
+          [107.6761193, -6.9392349535882],
+          [107.676200035438, -6.9392349535882],
+          [107.676200035438, -6.9391138],
+          [107.6761193, -6.9391138]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Kopi Haii express"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6589564, -6.9430244],
+          [107.6589564, -6.9431455535882],
+          [107.659037135438, -6.9431455535882],
+          [107.659037135438, -6.9430244],
+          [107.6589564, -6.9430244]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Palasari Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6759, -6.945254],
+          [107.6759, -6.9453751535882],
+          [107.675980735438, -6.9453751535882],
+          [107.675980735438, -6.945254],
+          [107.6759, -6.945254]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "OH Coffee Riung Bandung"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6803274, -6.9498797],
+          [107.6803274, -6.9500008535882],
+          [107.680408135438, -6.9500008535882],
+          [107.680408135438, -6.9498797],
+          [107.6803274, -6.9498797]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Aiwah Coffee Shop & Roastery"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6284041, -6.9409783],
+          [107.6284041, -6.9410994535882],
+          [107.628484835438, -6.9410994535882],
+          [107.628484835438, -6.9409783],
+          [107.6284041, -6.9409783]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Monday Coffee Kiara Artha Park"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6421484, -6.9168128],
+          [107.6421484, -6.9169339535882],
+          [107.642229135438, -6.9169339535882],
+          [107.642229135438, -6.9168128],
+          [107.6421484, -6.9168128]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Teduh Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6844699, -6.936602],
+          [107.6844699, -6.9367231535882],
+          [107.684550635438, -6.9367231535882],
+          [107.684550635438, -6.936602],
+          [107.6844699, -6.936602]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Kirana Coffee shop"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6623819, -6.955837],
+          [107.6623819, -6.9559581535882],
+          [107.662462635438, -6.9559581535882],
+          [107.662462635438, -6.955837],
+          [107.6623819, -6.955837]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Filia Coffee"
+    },
+    "geometry": {
+      "coordinates": [
+        [
+          [107.6587636, -6.9439139],
+          [107.6587636, -6.9440350535882],
+          [107.658844335438, -6.9440350535882],
+          [107.658844335438, -6.9439139],
+          [107.6587636, -6.9439139]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  }
+]
